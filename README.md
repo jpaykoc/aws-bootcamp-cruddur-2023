@@ -1,4 +1,4 @@
-# FREE AWS Cloud Project Bootcamp for JP Test
+# FREE AWS Cloud Project Bootcamp for thinks this works
 
 - Application: Cruddur
 - Cohort: 2023-A1
