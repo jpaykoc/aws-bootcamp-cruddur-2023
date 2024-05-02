@@ -1,4 +1,4 @@
-# FREE AWS Cloud Project Bootcamp for thinks this works
+# FREE AWS Cloud Project Bootcamp
 
 - Application: Cruddur
 - Cohort: 2023-A1
