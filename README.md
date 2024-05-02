@@ -1,4 +1,4 @@
-# FREE AWS Cloud Project Bootcamp for JP Test 3
+# FREE AWS Cloud Project Bootcamp for JP Test
 
 - Application: Cruddur
 - Cohort: 2023-A1
